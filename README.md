@@ -1,4 +1,4 @@
 # meta-n-ball
-Final codes will be updated here soon within Jun 1st week, till then you can check
+Final codes will be updated here soon within Jul 1st week, till then you can mail
 
-https://github.com/Aniket-Mitra/Meta-N-Ball/tree/main
+aniketmitra1997@gmail.com
